@@ -30,3 +30,7 @@
 2. [Упражнение 2](https://github.com/S3VDITO/labs-winforms/tree/main/Lab4/TestStandartDialogColorDialog)
 3. [Упражнение 3](https://github.com/S3VDITO/labs-winforms/tree/main/Lab4/TestStandartDialogFontDialog)
 4. [Упражнение 4](https://github.com/S3VDITO/labs-winforms/tree/main/Lab4/TestStandartDialogOpenFileDialog)
+
+## [Лабораторная работа 5. Взаимодействие управляемого и неуправляемого кода](https://github.com/S3VDITO/labs-winforms/tree/main/Lab5)
+1. [Упражнение 1](https://github.com/S3VDITO/labs-winforms/tree/main/Lab5/PDF%20Reader)
+2. [Упражнение 2](https://github.com/S3VDITO/labs-winforms/tree/main/Lab5/WinAnim)
