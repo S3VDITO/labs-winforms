@@ -18,3 +18,9 @@
 7. [Упражнение 7](https://github.com/S3VDITO/labs-winforms/tree/main/Lab2/WinLinkLabelMaskedTextBox)
 8. [Упражнение 8](https://github.com/S3VDITO/labs-winforms/tree/main/Lab2/RegistrationForm)
 9. [Упражнение 9](https://github.com/S3VDITO/labs-winforms/tree/main/Lab2/RegistrationFormValidating)
+
+## [Лабораторная работа 3. Создание элементов управления](https://github.com/S3VDITO/labs-winforms/tree/main/Lab3)
+1. [Упражнение 1](https://github.com/S3VDITO/labs-winforms/tree/main/Lab3/WinTimer1)
+2. [Упражнение 1 (контрол в DLL-ке)](https://github.com/S3VDITO/labs-winforms/tree/main/Lab3/WinTimer1DLL)
+3. [Упражнение 2](https://github.com/S3VDITO/labs-winforms/tree/main/Lab3/WinTimer2)
+4. [Упражнение 3](https://github.com/S3VDITO/labs-winforms/tree/main/Lab3/WinButNum)
