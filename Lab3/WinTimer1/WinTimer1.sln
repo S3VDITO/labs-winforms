@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinTimer1", "WinTimer1.csproj", "{37A167BF-F54F-435A-AE0B-C96D5C9C2B57}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinTimer1DLL", "..\WinTimer1DLL\WinTimer1DLL.csproj", "{2173AB62-A26D-448C-841D-88D8630752C6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37A167BF-F54F-435A-AE0B-C96D5C9C2B57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37A167BF-F54F-435A-AE0B-C96D5C9C2B57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37A167BF-F54F-435A-AE0B-C96D5C9C2B57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37A167BF-F54F-435A-AE0B-C96D5C9C2B57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2173AB62-A26D-448C-841D-88D8630752C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2173AB62-A26D-448C-841D-88D8630752C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2173AB62-A26D-448C-841D-88D8630752C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2173AB62-A26D-448C-841D-88D8630752C6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D53DA629-9AD7-4DCF-8888-81BEAC26BB30}
+	EndGlobalSection
+EndGlobal
