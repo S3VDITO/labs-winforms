@@ -24,3 +24,9 @@
 2. [Упражнение 1 (контрол в DLL-ке)](https://github.com/S3VDITO/labs-winforms/tree/main/Lab3/WinTimer1DLL)
 3. [Упражнение 2](https://github.com/S3VDITO/labs-winforms/tree/main/Lab3/WinTimer2)
 4. [Упражнение 3](https://github.com/S3VDITO/labs-winforms/tree/main/Lab3/WinButNum)
+
+## [Лабораторная работа 4. Использование окон диалога в формах](https://github.com/S3VDITO/labs-winforms/tree/main/Lab4)
+1. [Упражнение 1](https://github.com/S3VDITO/labs-winforms/tree/main/Lab4/TestStandartDialog)
+2. [Упражнение 2](https://github.com/S3VDITO/labs-winforms/tree/main/Lab4/TestStandartDialogColorDialog)
+3. [Упражнение 3](https://github.com/S3VDITO/labs-winforms/tree/main/Lab4/TestStandartDialogFontDialog)
+4. [Упражнение 4](https://github.com/S3VDITO/labs-winforms/tree/main/Lab4/TestStandartDialogOpenFileDialog)
