@@ -34,3 +34,8 @@
 ## [Лабораторная работа 5. Взаимодействие управляемого и неуправляемого кода](https://github.com/S3VDITO/labs-winforms/tree/main/Lab5)
 1. [Упражнение 1. Использование COM-компонента для создания PDF-приложения](https://github.com/S3VDITO/labs-winforms/tree/main/Lab5/PDF%20Reader)
 2. [Упражнение 2. Вызов функции API](https://github.com/S3VDITO/labs-winforms/tree/main/Lab5/WinAnim)
+
+## [Лабораторная работа 6. Организация печати в формах windows](https://github.com/S3VDITO/labs-winforms/tree/main/Lab6)
+1. [Упражнение 1. Использование диалоговых окон для печати](https://github.com/S3VDITO/labs-winforms/tree/main/Lab6/WinPrint)
+2. [Упражнение 2. Создание документа печати](https://github.com/S3VDITO/labs-winforms/tree/main/Lab6/WinPrintCreatePrintDocument)
+3. [Упражнение 3. Создание специализированной формы предварительного просмотра](https://github.com/S3VDITO/labs-winforms/tree/main/Lab6/WinPrintPrintPreviewControl)
