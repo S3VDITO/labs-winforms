@@ -44,3 +44,17 @@
 1. [Упражнение 1. Работа с компонентом BackgroundWorker](https://github.com/S3VDITO/labs-winforms/tree/main/Lab7/WinBackgroundWorker)
 2. [Упражнение 2. Использование делегатов](https://github.com/S3VDITO/labs-winforms/tree/main/Lab7/WinAsynchDelegate)
 3. [Упражнение 3. Асинхронный запуск произвольного метода](https://github.com/S3VDITO/labs-winforms/tree/main/Lab7/WinAsynchMethod)
+
+## [Лабораторная работа 8. Повышение удобства использования приложений](https://github.com/S3VDITO/labs-winforms/tree/main/Lab8)
+1. [Упражнение 1. Создание контекстной справки](https://github.com/S3VDITO/labs-winforms/tree/main/Lab8/WinAsynchMethodHelpProvider)
+2. [Упражнение 2. Использование справочного файла](https://github.com/S3VDITO/labs-winforms/tree/main/Lab8/WinAsynchMethodHelpProviderFile)
+3. [Упражнение 3. Добавление всплывающих подсказок](https://github.com/S3VDITO/labs-winforms/tree/main/Lab8/WinAsynchMethodToolTip)
+4. [Упражнение 4. Автоматический выбор языка при запуске приложения](https://github.com/S3VDITO/labs-winforms/tree/main/Lab8/WinLanguage)
+5. Упражнение 5. Локализация приложения (Нет необходимых файлов)
+
+## Лабораторная работа 9. Развертывание windows приложений (Нет необходимый файлов)
+1. Упражнение 1. Использование строго именованной сборки
+2. Упражнение 2. Работа с глобальным кэшем сборок
+3. Упражнение 3. Создание и использование файлов конфигурации приложения
+4. Упражнение 4. Создание и использование Windows Installer Setup Project
+5. Упражнение 5. Публикация приложения с помощью ClickOnce в сетевой папке
