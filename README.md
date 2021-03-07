@@ -39,3 +39,8 @@
 1. [Упражнение 1. Использование диалоговых окон для печати](https://github.com/S3VDITO/labs-winforms/tree/main/Lab6/WinPrint)
 2. [Упражнение 2. Создание документа печати](https://github.com/S3VDITO/labs-winforms/tree/main/Lab6/WinPrintCreatePrintDocument)
 3. [Упражнение 3. Создание специализированной формы предварительного просмотра](https://github.com/S3VDITO/labs-winforms/tree/main/Lab6/WinPrintPrintPreviewControl)
+
+## [Лабораторная работа 7. Асинхронное программирование](https://github.com/S3VDITO/labs-winforms/tree/main/Lab6)
+1. [Упражнение 1. Работа с компонентом BackgroundWorker](https://github.com/S3VDITO/labs-winforms/tree/main/Lab7/WinBackgroundWorker)
+2. [Упражнение 2. Использование делегатов](https://github.com/S3VDITO/labs-winforms/tree/main/Lab7/WinAsynchDelegate)
+3. [Упражнение 3. Асинхронный запуск произвольного метода](https://github.com/S3VDITO/labs-winforms/tree/main/Lab7/WinAsynchMethod)
